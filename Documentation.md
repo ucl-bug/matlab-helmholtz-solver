@@ -5,10 +5,10 @@
 Solves the 2D absorbing Helmholtz equation using GMRES. The form of the Helmhotlz equation is
 
 <!-- $$
-\left[ \nabla^2 + \left(\frac{(1 + i\alpha)\omega}{c_0}\right)^2\right]p(x) = s(x)
+\color{red}\left[ \nabla^2 + \left(\frac{(1 + i\alpha)\omega}{c_0}\right)^2\right]p(x) = s(x)
 $$ --> 
 
-<div align="center"><img style="background: white;" src="https://render.githubusercontent.com/render/math?math=%5Cleft%5B%20%5Cnabla%5E2%20%2B%20%5Cleft(%5Cfrac%7B(1%20%2B%20i%5Calpha)%5Comega%7D%7Bc_0%7D%5Cright)%5E2%5Cright%5Dp(x)%20%3D%20s(x)"></div>
+<div align="center"><img style="background: white;" src="https://render.githubusercontent.com/render/math?math=%5Ccolor%7Bred%7D%5Cleft%5B%20%5Cnabla%5E2%20%2B%20%5Cleft(%5Cfrac%7B(1%20%2B%20i%5Calpha)%5Comega%7D%7Bc_0%7D%5Cright)%5E2%5Cright%5Dp(x)%20%3D%20s(x)"></div>
 
 No preconditioning is used.
 
