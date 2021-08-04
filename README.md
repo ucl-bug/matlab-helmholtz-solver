@@ -26,7 +26,11 @@ Please visit the [Documentation.md](Documentation.md) file for information on ho
 
 
 ## Contributors
+
 [Antonio Stanziola](https://bug.medphys.ucl.ac.uk/antonio-stanziola) - [@astanziola](https://github.com/orgs/ucl-bug/people/astanziola)
+
 [Bradley Treeby](https://bug.medphys.ucl.ac.uk/bradley-treeby) - [@btreeby](https://github.com/orgs/ucl-bug/people/btreeby)
+
 [Santeri Kaupinmäki](https://bug.medphys.ucl.ac.uk/santeri-kaupinmaki)
+
 [Ben Cox](https://bug.medphys.ucl.ac.uk/ben-cox) - [@bencox](https://github.com/orgs/ucl-bug/people/bencox)
