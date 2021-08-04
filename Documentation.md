@@ -35,7 +35,9 @@ No preconditioning is used.
 | `dx` | scalar (default=1) | The spacing between pixels |
 
 *Outputs*
+
 `p`: The solution to the Helmholtz equation
+
 `relres`: The relative residual of the GMRES solver
 
 ## `kwave_solution`
@@ -63,4 +65,5 @@ Solves the 2D absorbing Helmholtz equation as the steady state of the wave equat
 | `dx` | scalar | The spacing between pixels |
 
 *Output*
+
 `p`: The solution to the Helmholtz equation
