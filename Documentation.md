@@ -4,7 +4,7 @@
 
 Solves the 2D absorbing Helmholtz equation using GMRES. The form of the Helmhotlz equation is
 
-<img src="https://render.githubusercontent.com/render/math?math=\left[ \nabla^2 %2B \left(\frac{(1 %2B i\alpha)\omega}{c_0}\right)^2\right]p(x) = s(x)">
+<img src="https://render.githubusercontent.com/render/math?math=\color{red}\\left[ \nabla^2 %2B \left(\frac{(1 %2B i\alpha)\omega}{c_0}\right)^2\right]p(x) = s(x)">
 
 
 No preconditioning is used.
