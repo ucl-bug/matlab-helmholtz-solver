@@ -31,6 +31,6 @@ Please visit the [Documentation.md](Documentation.md) file for information on ho
 
 [Bradley Treeby](https://bug.medphys.ucl.ac.uk/bradley-treeby) - [@btreeby](https://github.com/orgs/ucl-bug/people/btreeby)
 
-[Santeri Kaupinmäki](https://bug.medphys.ucl.ac.uk/santeri-kaupinmaki)
+[Santeri Kaupinmäki](https://bug.medphys.ucl.ac.uk/santeri-kaupinmaki) - [@SanteriKaupinmaki](https://github.com/SanteriKaupinmaki)
 
 [Ben Cox](https://bug.medphys.ucl.ac.uk/ben-cox) - [@bencox](https://github.com/orgs/ucl-bug/people/bencox)
